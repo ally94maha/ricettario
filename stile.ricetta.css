@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+
+body {
+  background-color: #E2E8DD;
+}
+
+h1 {
+  color: #3C787E;
+  letter-spacing: 2px;
+  font-family: 'PT Serif', serif;
+  text-shadow: 2px 2px 5px black;
+  background-color: #1B1E21;
+  text-transform:capitalize;
+}
+
+h2 {
+  color: #1B1E21;
+  margin-left: 20px;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+
+h3 {
+  color: #1B1E21;
+  margin-left: 20px;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+
+h4 {
+  color: #1B1E21;
+  margin-left: 25px;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+
+h5 {
+  color: #1B1E21;
+  margin-left: 25px;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+
+ul{
+  list-style-type: circle;
+}
+
+ol{
+  
+}
+
+.img {
+	text-align:center;
+}
+
+.intestazione   {
+ padding-bottom: 30px;
+ text-align:center;
+}
