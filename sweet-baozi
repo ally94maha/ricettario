@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Baozi</title>
+
+<meta encoding="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+
+<link rel="stylesheet" href="stile.ricetta.css">
+
+</head>
+
+<body>
+	<div class="container-fluid">
+		<div class="intestazione">
+		<img class="img-fluid" src="img\baozi.jpg" alt="baozi" >
+		
+		<h1>custard baozi</h1>
+		</div>
+		
+		<div class="row">
+
+			<div class="col-sm-4">
+				<h2>Ingredients</h2>
+				<h5><ul>
+					<li>300g  All-purpose flour </li>
+					<li>4g yeast</li>
+					<li>55g sugar</li>
+					<li>4g Baking powder (optional)</li>
+					<li>140ml 40C warm water </li>
+          <li>55g oil</li>
+						<br>
+					<li>112g unsalted butter</li>
+					<li>2 salted egg yolks</li>
+					<li>55g custard powder (use Cornstarch instead)</li>
+					<li>120g powdered sugar</li>
+					<li>55g whole milk powder</li>
+					<li>25g milk</li>				
+				</ul></h5>
+				
+
+			</div>
+				
+			<div class="col-sm-8">
+				<h2>Method</h2>
+				<h4><ol>
+					<li>Put the unsalted butter into a bowl and melt over a small fire over water.</li>				
+					<li>Put the salted egg yolks in a steamer and steam them, crush them for later use.</li>
+					<li>Take a cooking bowl, pour custard powder, powdered sugar and whole milk powder, then add melted butter and mix well.</li>
+					<li>Add the milk in multiple times, then add the crushed salted egg yolk, stir evenly, sieve, and freeze for 1 hour in the refrigerator.</li>
+					<li>Divide the frozen fillings into 15g portions, round them and set aside.</li>
+					<li>Take a small bowl, put yeast and sugar, pour the warm water, stir until it dissolves, and set aside.</li>
+					<li>Take a cooking bowl, put in flour, baking powder and oil, slowly pour in yeast water several times, stir it, knead it into a smooth dough, wrap it in plastic wrap, and proof it for 10 minute.</li>
+					<li>Roll the proofed dough into long strips and divide them into 30g portions.</li>
+					<li>After pressing the dough flat, roll it out with a rolling pin while turning it to form a thin round skin in the middle, wrap it in the filling, and close it down.</li>
+					<li>Put the quicksand buns in a steamer covered with steamer paper, cover and proof for 30 minutes until fluffy, put them in a boiling water steamer, steam for about 6 minutes on high heat.</li>
+				</ol></h4>
+			</div>
+			
+		</div>
+
+
+	</div>
+</body>
+</html>
